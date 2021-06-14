@@ -6,14 +6,35 @@
 ![Resnet-50](/images/teaser_res50.png)
 
 ## The Lottery Ticket Hypothesis 
-Definition
+The Lottery ticket hypothesis states that in dense, randomly-initialized feed-forward networks there exist such sub-networks which when trained in isolation reach test accuracy comparable to the original network. In our work, we explore application  of LTH to object recognition - detection, segmentation and keypoint estimation tasks. 
 
 ## Main Results
-
-## Citation
-
+The key takeaways from the paper are :
+* We find that there exists no "universal ticket" derived from imagenet models that can transfer efficiently to object recognition models. 
+* Tickets obtained by directly pruning the models for specific tasks outperform other methods. 
+* 
 
 ## Code and paper
+
+![Code](https://github.com/Sharath-girish/LTH-ObjectRecognition)
+
+![Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Girish_The_Lottery_Ticket_Hypothesis_for_Object_Recognition_CVPR_2021_paper.html)
+
+
+## Citation
+Please cite our work using: 
+
+```
+@InProceedings{Girish_2021_CVPR,
+    author    = {Girish, Sharath and Maiya, Shishira R and Gupta, Kamal and Chen, Hao and Davis, Larry S. and Shrivastava, Abhinav},
+    title     = {The Lottery Ticket Hypothesis for Object Recognition},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {762-771}
+}
+```
+
 
 <!-- ## Mumbai Slums
 
