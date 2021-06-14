@@ -1,24 +1,24 @@
 # Lottery Ticket Hypothesis
 
-The Lottery Ticket Hypothesis 
 
-![intro-pic](/images/teaser_res18.png)
+![Resnet-18](/images/teaser_res18.png)
+![Resnet-50](/images/teaser_res50.png)
 
+## The Lottery Ticket Hypothesis 
+Definition
 
-## Mumbai Slums
+## Main Results
 
-Mumbai is one of the most populous and wealthiest cities in India. However, it is also home to some of the world’s biggest slums -- **Dharavi, Mankhurd-Govandi belt, Kurla-Ghatkopar belt, Dindoshi and The Bhandup-Mulund slums**. The number of slum-dwellers in Mumbai is estimated to be around 9 million, up from 6 million in 2001 that is, 62% of of Mumbai live in informal slums.
-
-![dharavi-govandi](/assets/images/dh-govandi.png)
-
-![kurla](/assets/images/kurla.jpg)
-
-When we spoke to the local slum dwellers, we realised that the situation was worse than we expected. Most of them lack access to clean water, basic sanitation and any form of reliable healthcare.
-
-We wanted to help. 
+## Citation
 
 
-## What did we do?
+## Code and paper
+
+<!-- ## Mumbai Slums
+
+ -->
+
+<!-- ## What did we do?
 
 Any intitative on slum rehabitiation and improvement relies heavily on **slum mapping** and **monitoring**. When we spoke to the relevant authorities, we found out that they mapped slums manually (human annotators), which takes a substantial amount of time. We realised we could automate this and used a deep learning approach to **segment and map individual slums from satellite imagery**. In addition, we also wrote code to **perform change detection and monitor slum change over time**. Slum change detection is an important task and analysing increase/decrease of a slum can provide valuable insights.
 
@@ -83,3 +83,4 @@ We published our work in the NeurIPS (NIPS) 2018 ML4D workshop. If you'd like to
 
 
 
+ -->
