@@ -2,7 +2,7 @@
 
 The Lottery Ticket Hypothesis 
 
-![intro-pic](/images/teaser_res18.pdf)
+![intro-pic](/images/teaser_res18.png)
 
 
 ## Mumbai Slums
