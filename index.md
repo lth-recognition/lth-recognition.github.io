@@ -1,4 +1,4 @@
-# Lottery Ticket Hypothesis
+# Lottery Ticket Hypothesis for Object Recognition
 
 
 ![Resnet-18](/images/teaser_res18.png)
