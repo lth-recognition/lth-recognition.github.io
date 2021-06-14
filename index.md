@@ -12,13 +12,13 @@ The Lottery ticket hypothesis states that in dense, randomly-initialized feed-fo
 The key takeaways from the paper are :
 * We find that there exists no "universal ticket" derived from imagenet models that can transfer efficiently to object recognition models. 
 * Tickets obtained by directly pruning the models for specific tasks outperform other methods. 
-* 
+* We observe that tickets can be obtained upto 80% sparsity with good accuracy.
 
 ## Code and paper
 
-![Code](https://github.com/Sharath-girish/LTH-ObjectRecognition)
+[Code!](https://github.com/Sharath-girish/LTH-ObjectRecognition)
 
-![Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Girish_The_Lottery_Ticket_Hypothesis_for_Object_Recognition_CVPR_2021_paper.html)
+[Paper!](https://openaccess.thecvf.com/content/CVPR2021/html/Girish_The_Lottery_Ticket_Hypothesis_for_Object_Recognition_CVPR_2021_paper.html)
 
 
 ## Citation
