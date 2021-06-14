@@ -16,9 +16,9 @@ The key takeaways from the paper are :
 
 ## Code and paper
 
-[Code!](https://github.com/Sharath-girish/LTH-ObjectRecognition)
+[Code](https://github.com/Sharath-girish/LTH-ObjectRecognition)
 
-[Paper!](https://openaccess.thecvf.com/content/CVPR2021/html/Girish_The_Lottery_Ticket_Hypothesis_for_Object_Recognition_CVPR_2021_paper.html)
+[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Girish_The_Lottery_Ticket_Hypothesis_for_Object_Recognition_CVPR_2021_paper.html)
 
 
 ## Citation
