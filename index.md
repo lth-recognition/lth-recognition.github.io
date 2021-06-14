@@ -2,6 +2,7 @@
 
 
 ![Resnet-18](/images/teaser_res18.png)
+
 ![Resnet-50](/images/teaser_res50.png)
 
 ## The Lottery Ticket Hypothesis 
