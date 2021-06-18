@@ -1,0 +1,8 @@
+@InProceedings{Girish_2021_CVPR,
+    author    = {Girish, Sharath and Maiya, Shishira R and Gupta, Kamal and Chen, Hao and Davis, Larry S. and Shrivastava, Abhinav},
+    title     = {The Lottery Ticket Hypothesis for Object Recognition},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {762-771}
+}
