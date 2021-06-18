@@ -1,10 +1,6 @@
 # Lottery Ticket Hypothesis for Object Recognition
 
 
-![Resnet-18](/images/teaser_res18.png)
-
-![Resnet-50](/images/teaser_res50.png)
-
 ## The Lottery Ticket Hypothesis 
 The Lottery ticket hypothesis states that in dense, randomly-initialized feed-forward networks there exist such sub-networks which when trained in isolation reach test accuracy comparable to the original network. In our work, we explore application  of LTH to object recognition - detection, segmentation and keypoint estimation tasks. 
 
@@ -13,6 +9,11 @@ The key takeaways from the paper are :
 * We find that there exists no "universal ticket" derived from imagenet models that can transfer efficiently to object recognition models. 
 * Tickets obtained by directly pruning the models for specific tasks outperform other methods. 
 * We observe that tickets can be obtained upto 80% sparsity with good accuracy.
+
+
+![Resnet-18](/images/teaser_res18.png)
+
+![Resnet-50](/images/teaser_res50.png)
 
 ## Code and paper
 
